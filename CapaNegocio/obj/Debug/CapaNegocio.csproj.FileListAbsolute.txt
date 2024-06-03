@@ -1,0 +1,11 @@
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\source\Pubs-4-capas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\source\Pubs-4-capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\source\Pubs-4-capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\source\Pubs-4-capas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\source\Pubs-4-capas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\source\Pubs-4-capas\CapaNegocio\obj\Debug\CapaNegocio.pdb
